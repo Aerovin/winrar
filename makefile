@@ -13,3 +13,4 @@ install:
 	cp rarreg.key /etc
 	cp default.sfx $(PREFIX)/lib
 	sudo chmod 777 $(PREFIX)/bin/rar
+	sudo chmod 777 $(PREFIX)/bin/unrar

@@ -1,5 +1,9 @@
 Winrar Full version for Linux 64bit
 ===================================
+RAR 5.30   Copyright (c) 1993-2015 Alexander Roshal   18 Nov 2015
+Registered to Aerovin
+
+Download Trial : http://www.rarlab.com/rar/rarlinux-x64-5.3.0.tar.gz
 Installation
 ------------
 ```sh
